@@ -1,0 +1,47 @@
+body {
+  background: url(back.jpg) no-repeat center center fixed; 
+    
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h3 {
+
+  text-align: center;
+  text-orientation: italic;
+}
+p{color: black;
+font-style: default;
+
+}
+
+.card-img{
+ border-image-width: 5px;
+
+
+}
+
+.btn-rounded{
+
+width:40%;
+display:inline-block;
+margin: auto;
+padding-right:20px;
+}
+
+.text{
+font-style: italic;
+
+}
+.align 
+{
+  text-align:center;
+  text-decoration: italic;
+  color:grey;
+  text-decoration: underline;
+}
+a{
+  text-decoration: underline;;
+
+}
